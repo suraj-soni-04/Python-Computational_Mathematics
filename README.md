@@ -24,7 +24,7 @@ where \( l_i(x) \) are the Lagrange basis polynomials defined as:
 l_i(x) = \prod_{j=0, j \neq i}^{n-1} \frac{x - x_j}{x_i - x_j}
 \]
 
-## Explanation of Code
+### Explanation of Code
 
 The provided Python code demonstrates Lagrange interpolation to estimate pressure values at given temperature points. Here's a breakdown of the code:
 
@@ -43,7 +43,7 @@ The provided Python code demonstrates Lagrange interpolation to estimate pressur
 
 - **Visualization**: The resulting plot visualizes the pressure-temperature relationship using Lagrange interpolation.
 
-## How to Use
+### How to Use
 
 To use this code, follow these steps:
 
@@ -86,7 +86,7 @@ The provided Python code implements Gaussian elimination to solve a system of li
 
 - **Printing Solution**: Finally, the code prints the solution vector \( X \) to the console.
 
-## How to Use
+### How to Use
 
 To use this code, follow these steps:
 
